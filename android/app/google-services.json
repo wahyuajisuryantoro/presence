@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233056755337",
+    "project_id": "fic16absensi",
+    "storage_bucket": "fic16absensi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233056755337:android:bc04b4741f80f46e333058",
+        "android_client_info": {
+          "package_name": "com.example.flutter_absensi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7BclJuilpFwxhoRU6V6adVlWWJy_taJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
